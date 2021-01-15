@@ -1,0 +1,28 @@
+h1{
+    color: blueviolet;
+}
+p{
+    color: rgb(4, 84, 87);
+}
+.class1{
+    color: chartreuse;
+}
+.id1{
+    font-style: italic;
+}
+.nestedselector ul li a{
+    text-decoration: none;
+
+}
+.childselector ul li:first-child{
+    color: crimson;
+    
+}
+.pscudoselector{
+    height: 80px;
+    width: 150px;
+    background-color: rgb(77, 49, 206);
+}
+.pscudoselector:hover{
+    background-color: rgb(224, 206, 206);
+}
